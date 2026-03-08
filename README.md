@@ -36,11 +36,4 @@ I am an **AI & MLOps Engineer** with over 3 years of experience in deploying sca
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/elifabh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elifabh&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
 
