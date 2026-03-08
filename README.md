@@ -40,9 +40,7 @@ I am an **AI & MLOps Engineer** with over 3 years of experience in deploying sca
 
 <p align="center">
   <a href="https://github.com/elifabh">
-    <img src="https://github-readme-stats.vercel.app/api?username=elifabh&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/elifabh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifabh&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elifabh&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
+
