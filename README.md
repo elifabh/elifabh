@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Elif Gul! 
+# Hi there, I'm Elif Gul! 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=009688&center=false&vCenter=true&width=600&lines=AI+%2F+MLOps+Engineer;MSc+in+AI+%40+MTU;Building+Scalable+LLM+%26+RAG+Systems" alt="Typing SVG" /></a>
 
